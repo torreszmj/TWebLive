@@ -1,7 +1,7 @@
 /*eslint-disable*/
-const _SDKAPPID = 0;
-const _SECRETKEY = '';
-const _PLAYDOMAIN = ''; // 播放域名配置
+const _SDKAPPID = 1400551870;
+const _SECRETKEY = '8a0444f239cf7405370cb69d6099b61deaeba1da72906607dbca8692e4771e2c';
+const _PLAYDOMAIN = 'torlive.test.com'; // 播放域名配置
 /*
  * Module:   GenerateTestUserSig
  *
